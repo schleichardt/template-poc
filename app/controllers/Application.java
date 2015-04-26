@@ -121,6 +121,7 @@ public class Application extends Controller {
       show override of layout with different controller action
       show how to run design for designer
       load json data into it
+      https://github.com/Amadeus82/sbt-handlebars
         javascript reverse routing?
     may use nashorn to dependen only on handlebars.js
      */
