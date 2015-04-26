@@ -1,0 +1,497 @@
+{"offset": 0, "count": 5, "total": 5, "results": [
+  {
+    "id": "f3b17f52-9ab1-478f-899c-e3d2d5c74579",
+    "version": 2,
+    "productType": {
+      "typeId": "product-type",
+      "id": "da5dd5e7-c5e4-4ccd-a753-d92013414cd9"
+    },
+    "catalogs": [],
+    "masterData": {
+      "current": {
+        "name": {
+          "en": "SAPPHIRE"
+        },
+        "description": {
+          "en": "Sample description"
+        },
+        "categories": [
+          {
+            "typeId": "category",
+            "id": "b6c9c274-3637-41d4-b40e-e4e10a62ef67"
+          }
+        ],
+        "slug": {
+          "en": "sapphire1374314429721"
+        },
+        "masterVariant": {
+          "id": 1,
+          "sku": "sku_SAPPHIRE_variant1_1374314429721",
+          "prices": [
+            {
+              "value": {
+                "currencyCode": "EUR",
+                "centAmount": 2800
+              }
+            }
+          ],
+          "images": [
+            {
+              "url": "https://sphere.io/cli/data/252542005_1.jpg",
+              "dimensions": {
+                "w": 1400,
+                "h": 1400
+              }
+            }
+          ],
+          "attributes": []
+        },
+        "variants": []
+      },
+      "staged": {
+        "name": {
+          "en": "SAPPHIRE"
+        },
+        "description": {
+          "en": "Sample description"
+        },
+        "categories": [
+          {
+            "typeId": "category",
+            "id": "b6c9c274-3637-41d4-b40e-e4e10a62ef67"
+          }
+        ],
+        "slug": {
+          "en": "sapphire1374314429721"
+        },
+        "masterVariant": {
+          "id": 1,
+          "sku": "sku_SAPPHIRE_variant1_1374314429721",
+          "prices": [
+            {
+              "value": {
+                "currencyCode": "EUR",
+                "centAmount": 2800
+              }
+            }
+          ],
+          "images": [
+            {
+              "url": "https://sphere.io/cli/data/252542005_1.jpg",
+              "dimensions": {
+                "w": 1400,
+                "h": 1400
+              }
+            }
+          ],
+          "attributes": []
+        },
+        "variants": []
+      },
+      "published": true,
+      "hasStagedChanges": false
+    },
+    "catalogData": {},
+    "taxCategory": {
+      "typeId": "tax-category",
+      "id": "6a9a275f-cc37-46ec-bf65-df86cff150c3"
+    },
+    "lastVariantId": 1
+  },
+  {
+    "id": "54e625a3-fb88-4593-82eb-28d1e52a7200",
+    "version": 2,
+    "productType": {
+      "typeId": "product-type",
+      "id": "da5dd5e7-c5e4-4ccd-a753-d92013414cd9"
+    },
+    "catalogs": [],
+    "masterData": {
+      "current": {
+        "name": {
+          "en": "GIRLS HARTBREAK CREW"
+        },
+        "description": {
+          "en": "Sample description"
+        },
+        "categories": [
+          {
+            "typeId": "category",
+            "id": "870b3e14-94c1-420e-b830-452a4b0f86a3"
+          }
+        ],
+        "slug": {
+          "en": "girls-hartbreak-crew1374314429744"
+        },
+        "masterVariant": {
+          "id": 1,
+          "sku": "sku_GIRLS_HARTBREAK_CREW_variant1_1374314429744",
+          "prices": [
+            {
+              "value": {
+                "currencyCode": "EUR",
+                "centAmount": 3400
+              }
+            }
+          ],
+          "images": [
+            {
+              "url": "https://sphere.io/cli/data/253234387_1.jpg",
+              "dimensions": {
+                "w": 1400,
+                "h": 1400
+              }
+            }
+          ],
+          "attributes": []
+        },
+        "variants": []
+      },
+      "staged": {
+        "name": {
+          "en": "GIRLS HARTBREAK CREW"
+        },
+        "description": {
+          "en": "Sample description"
+        },
+        "categories": [
+          {
+            "typeId": "category",
+            "id": "870b3e14-94c1-420e-b830-452a4b0f86a3"
+          }
+        ],
+        "slug": {
+          "en": "girls-hartbreak-crew1374314429744"
+        },
+        "masterVariant": {
+          "id": 1,
+          "sku": "sku_GIRLS_HARTBREAK_CREW_variant1_1374314429744",
+          "prices": [
+            {
+              "value": {
+                "currencyCode": "EUR",
+                "centAmount": 3400
+              }
+            }
+          ],
+          "images": [
+            {
+              "url": "https://sphere.io/cli/data/253234387_1.jpg",
+              "dimensions": {
+                "w": 1400,
+                "h": 1400
+              }
+            }
+          ],
+          "attributes": []
+        },
+        "variants": []
+      },
+      "published": true,
+      "hasStagedChanges": false
+    },
+    "catalogData": {},
+    "taxCategory": {
+      "typeId": "tax-category",
+      "id": "6a9a275f-cc37-46ec-bf65-df86cff150c3"
+    },
+    "lastVariantId": 1
+  },
+  {
+    "id": "11e9c8de-f851-4c3d-bd2b-091edcf3c6df",
+    "version": 2,
+    "productType": {
+      "typeId": "product-type",
+      "id": "da5dd5e7-c5e4-4ccd-a753-d92013414cd9"
+    },
+    "catalogs": [],
+    "masterData": {
+      "current": {
+        "name": {
+          "en": "WB ATHLETIC TANK"
+        },
+        "description": {
+          "en": "Sample description"
+        },
+        "categories": [
+          {
+            "typeId": "category",
+            "id": "d312c586-7edf-4d85-a07e-3b3d18c998b1"
+          }
+        ],
+        "slug": {
+          "en": "wb-athletic-tank1374314429773"
+        },
+        "masterVariant": {
+          "id": 1,
+          "sku": "sku_WB_ATHLETIC_TANK_variant1_1374314429773",
+          "prices": [
+            {
+              "value": {
+                "currencyCode": "EUR",
+                "centAmount": 8400
+              }
+            }
+          ],
+          "images": [
+            {
+              "url": "https://sphere.io/cli/data/253265444_1.jpg",
+              "dimensions": {
+                "w": 1400,
+                "h": 1400
+              }
+            }
+          ],
+          "attributes": []
+        },
+        "variants": []
+      },
+      "staged": {
+        "name": {
+          "en": "WB ATHLETIC TANK"
+        },
+        "description": {
+          "en": "Sample description"
+        },
+        "categories": [
+          {
+            "typeId": "category",
+            "id": "d312c586-7edf-4d85-a07e-3b3d18c998b1"
+          }
+        ],
+        "slug": {
+          "en": "wb-athletic-tank1374314429773"
+        },
+        "masterVariant": {
+          "id": 1,
+          "sku": "sku_WB_ATHLETIC_TANK_variant1_1374314429773",
+          "prices": [
+            {
+              "value": {
+                "currencyCode": "EUR",
+                "centAmount": 8400
+              }
+            }
+          ],
+          "images": [
+            {
+              "url": "https://sphere.io/cli/data/253265444_1.jpg",
+              "dimensions": {
+                "w": 1400,
+                "h": 1400
+              }
+            }
+          ],
+          "attributes": []
+        },
+        "variants": []
+      },
+      "published": true,
+      "hasStagedChanges": false
+    },
+    "catalogData": {},
+    "taxCategory": {
+      "typeId": "tax-category",
+      "id": "6a9a275f-cc37-46ec-bf65-df86cff150c3"
+    },
+    "lastVariantId": 1
+  },
+  {
+    "id": "5becc121-1bbe-45f3-9f67-04208b476b3e",
+    "version": 2,
+    "productType": {
+      "typeId": "product-type",
+      "id": "da5dd5e7-c5e4-4ccd-a753-d92013414cd9"
+    },
+    "catalogs": [],
+    "masterData": {
+      "current": {
+        "name": {
+          "en": "MB SOFTSHELL LINER"
+        },
+        "description": {
+          "en": "Sample description"
+        },
+        "categories": [
+          {
+            "typeId": "category",
+            "id": "b6c9c274-3637-41d4-b40e-e4e10a62ef67"
+          }
+        ],
+        "slug": {
+          "en": "mb-softshell-liner1374314429797"
+        },
+        "masterVariant": {
+          "id": 1,
+          "sku": "sku_MB_SOFTSHELL_LINER_variant1_1374314429797",
+          "prices": [
+            {
+              "value": {
+                "currencyCode": "EUR",
+                "centAmount": 10000
+              }
+            }
+          ],
+          "images": [
+            {
+              "url": "https://sphere.io/cli/data/254391631_1.jpg",
+              "dimensions": {
+                "w": 1400,
+                "h": 1400
+              }
+            }
+          ],
+          "attributes": []
+        },
+        "variants": []
+      },
+      "staged": {
+        "name": {
+          "en": "MB SOFTSHELL LINER"
+        },
+        "description": {
+          "en": "Sample description"
+        },
+        "categories": [
+          {
+            "typeId": "category",
+            "id": "b6c9c274-3637-41d4-b40e-e4e10a62ef67"
+          }
+        ],
+        "slug": {
+          "en": "mb-softshell-liner1374314429797"
+        },
+        "masterVariant": {
+          "id": 1,
+          "sku": "sku_MB_SOFTSHELL_LINER_variant1_1374314429797",
+          "prices": [
+            {
+              "value": {
+                "currencyCode": "EUR",
+                "centAmount": 10000
+              }
+            }
+          ],
+          "images": [
+            {
+              "url": "https://sphere.io/cli/data/254391631_1.jpg",
+              "dimensions": {
+                "w": 1400,
+                "h": 1400
+              }
+            }
+          ],
+          "attributes": []
+        },
+        "variants": []
+      },
+      "published": true,
+      "hasStagedChanges": false
+    },
+    "catalogData": {},
+    "taxCategory": {
+      "typeId": "tax-category",
+      "id": "6a9a275f-cc37-46ec-bf65-df86cff150c3"
+    },
+    "lastVariantId": 1
+  },
+  {
+    "id": "336c316d-7cf2-456d-a178-8e6bfeaede69",
+    "version": 2,
+    "productType": {
+      "typeId": "product-type",
+      "id": "da5dd5e7-c5e4-4ccd-a753-d92013414cd9"
+    },
+    "catalogs": [],
+    "masterData": {
+      "current": {
+        "name": {
+          "en": "MB PREMIUM TECH T"
+        },
+        "description": {
+          "en": "Sample description"
+        },
+        "categories": [
+          {
+            "typeId": "category",
+            "id": "870b3e14-94c1-420e-b830-452a4b0f86a3"
+          }
+        ],
+        "slug": {
+          "en": "mb-premium-tech-t1374314429824"
+        },
+        "masterVariant": {
+          "id": 1,
+          "sku": "sku_MB_PREMIUM_TECH_T_variant1_1374314429824",
+          "prices": [
+            {
+              "value": {
+                "currencyCode": "EUR",
+                "centAmount": 10000
+              }
+            }
+          ],
+          "images": [
+            {
+              "url": "https://sphere.io/cli/data/253245821_1.jpg",
+              "dimensions": {
+                "w": 1400,
+                "h": 1400
+              }
+            }
+          ],
+          "attributes": []
+        },
+        "variants": []
+      },
+      "staged": {
+        "name": {
+          "en": "MB PREMIUM TECH T"
+        },
+        "description": {
+          "en": "Sample description"
+        },
+        "categories": [
+          {
+            "typeId": "category",
+            "id": "870b3e14-94c1-420e-b830-452a4b0f86a3"
+          }
+        ],
+        "slug": {
+          "en": "mb-premium-tech-t1374314429824"
+        },
+        "masterVariant": {
+          "id": 1,
+          "sku": "sku_MB_PREMIUM_TECH_T_variant1_1374314429824",
+          "prices": [
+            {
+              "value": {
+                "currencyCode": "EUR",
+                "centAmount": 10000
+              }
+            }
+          ],
+          "images": [
+            {
+              "url": "https://sphere.io/cli/data/253245821_1.jpg",
+              "dimensions": {
+                "w": 1400,
+                "h": 1400
+              }
+            }
+          ],
+          "attributes": []
+        },
+        "variants": []
+      },
+      "published": true,
+      "hasStagedChanges": false
+    },
+    "catalogData": {},
+    "taxCategory": {
+      "typeId": "tax-category",
+      "id": "6a9a275f-cc37-46ec-bf65-df86cff150c3"
+    },
+    "lastVariantId": 1
+  }
+]}

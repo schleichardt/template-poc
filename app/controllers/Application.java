@@ -1,10 +1,12 @@
 package controllers;
 
+import com.github.jknack.handlebars.Context;
 import com.github.jknack.handlebars.Handlebars;
 import com.github.jknack.handlebars.Template;
 import com.github.jknack.handlebars.io.FileTemplateLoader;
 import com.github.jknack.handlebars.io.TemplateLoader;
 import com.github.jknack.handlebars.io.TemplateSource;
+import com.github.jknack.handlebars.JsonNodeValueResolver;
 import play.mvc.*;
 
 import play.twirl.api.Html;
@@ -24,7 +26,11 @@ public class Application extends Controller {
      */
     public static Result index() throws Exception {
         final Template template = defaultTemplatesHandlebars().compile("home");
-        final String rendered = template.apply("Handlebars.java");
+        Context context = Context
+                .newBuilder(Data.products())
+                .resolver(JsonNodeValueResolver.INSTANCE)
+                .build();
+        final String rendered = template.apply(context);
         return ok(Html.apply(rendered));
     }
 
@@ -116,6 +122,6 @@ public class Application extends Controller {
       show how to run design for designer
       load json data into it
         javascript reverse routing?
-
+    may use nashorn to dependen only on handlebars.js
      */
 }

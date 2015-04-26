@@ -12,4 +12,5 @@ libraryDependencies ++=
   cache ::
   javaWs ::
   "com.github.jknack" % "handlebars" % "2.0.0" ::
+  "com.github.jknack" % "handlebars-jackson2" % "2.0.0" ::
   Nil

@@ -1,4 +1,12 @@
 {{# partial "content" }}
     <p>Home page</p>
+
+    <p>Number of products: {{count}}</p>
+    <ul>
+    {{#results}}
+        <li>{{masterData.current.name.en}}</li>
+    {{/results}}
+    </ul>
+
 {{/partial}}
 {{> base}}
