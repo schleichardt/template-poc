@@ -122,7 +122,10 @@ public class Application extends Controller {
       show how to run design for designer
       load json data into it
       https://github.com/Amadeus82/sbt-handlebars
+      websocket reloader/file watcher
         javascript reverse routing?
     may use nashorn to dependen only on handlebars.js
+
+    async hooks, to put more data into json for templates, Sunrise plugins
      */
 }
